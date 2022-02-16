@@ -1,0 +1,13 @@
+C:\Users\Patricia\Desktop\Practica_C++\Practica_C++\bin\Debug\netcoreapp3.1\Practica_C++.exe
+C:\Users\Patricia\Desktop\Practica_C++\Practica_C++\bin\Debug\netcoreapp3.1\Practica_C++.deps.json
+C:\Users\Patricia\Desktop\Practica_C++\Practica_C++\bin\Debug\netcoreapp3.1\Practica_C++.runtimeconfig.json
+C:\Users\Patricia\Desktop\Practica_C++\Practica_C++\bin\Debug\netcoreapp3.1\Practica_C++.runtimeconfig.dev.json
+C:\Users\Patricia\Desktop\Practica_C++\Practica_C++\bin\Debug\netcoreapp3.1\Practica_C++.dll
+C:\Users\Patricia\Desktop\Practica_C++\Practica_C++\bin\Debug\netcoreapp3.1\Practica_C++.pdb
+C:\Users\Patricia\Desktop\Practica_C++\Practica_C++\obj\Debug\netcoreapp3.1\Practica_C++.csproj.AssemblyReference.cache
+C:\Users\Patricia\Desktop\Practica_C++\Practica_C++\obj\Debug\netcoreapp3.1\Practica_C++.AssemblyInfoInputs.cache
+C:\Users\Patricia\Desktop\Practica_C++\Practica_C++\obj\Debug\netcoreapp3.1\Practica_C++.AssemblyInfo.cs
+C:\Users\Patricia\Desktop\Practica_C++\Practica_C++\obj\Debug\netcoreapp3.1\Practica_C++.csproj.CoreCompileInputs.cache
+C:\Users\Patricia\Desktop\Practica_C++\Practica_C++\obj\Debug\netcoreapp3.1\Practica_C++.dll
+C:\Users\Patricia\Desktop\Practica_C++\Practica_C++\obj\Debug\netcoreapp3.1\Practica_C++.pdb
+C:\Users\Patricia\Desktop\Practica_C++\Practica_C++\obj\Debug\netcoreapp3.1\Practica_C++.genruntimeconfig.cache
